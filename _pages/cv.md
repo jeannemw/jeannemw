@@ -25,5 +25,5 @@ For a complete CV, please download the [full PDF](../assets/cv.pdf) or view my [
 
 - Teaching Assistant, School of Geographical Sciences, undergraduate unit "Future Climate", demonstrating and marking (2024–present)
 - Teaching Assistant,  School of Geographical Sciences, masters unit "Quantifying climate risks", demonstrating (2025)
-- 
+  
 ## Service & Outreach
