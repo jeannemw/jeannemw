@@ -7,22 +7,16 @@ author_profile: true
 
 ## Overview
 
-My research focuses on understanding how glaciers respond to climate variability and change. Specifically, I investigate the coupling between atmospheric forcing, glacier dynamics, and meltwater discharge. This work combines field observations, numerical modeling, and satellite remote sensing to characterize glacier behavior across different spatial and temporal scales.
+My current research focuses on climate variability over the past 3.6 Ma. Specifically, I investigate in the individual contribution of insolation, ice sheet and greenhouse gases variations on global temperature changes and on the Asian summer monsoon system, with a particular focus on the Mid-Pleistocene Transition (MPT; ~1.2 Ma - 750 Ka). In the past, I have also investigated ocean circulation dynamics at the Eocene. 
 
 ## Key Research Questions
 
-- How do glaciers respond to rapid climate changes?
-- What are the feedback mechanisms between glacier melt and regional climate?
-- How can we improve glacier parameterizations in large-scale climate models?
+- How a global circulation model can be useful to investigate millenial-scale variability of the climate? 
+- What are the individual contributions of greenhouse gases and ice sheet variations on the 100-Ka cycles of the climate?
+- What was the role of individual hemispheric ice sheets in driving the thermohaline circulation crisis at the Mid-Pleistocene Transition?
 
 ## Current Projects
 
-**Alpine Glacier Monitoring** – Using satellite imagery and UAV surveys to track glacier retreat in high mountain regions and assess impacts on water resources.
+**Phd** – Using equilibrium simulations from the global circulation model HadCM3 to reconstruct the climate variations of the past 3.6 Ma. Investigate the individual role of insolation, ice sheet and greenhouse gases on global and regional surface temperatures and on the Asian summer monsoon system. 
 
-**Subglacial Hydrology** – Investigating seasonal variations in meltwater discharge and subglacial drainage system evolution using field instruments and hydrodynamic models.
-
-## Research Image
-
-![Image of a glacier](../assets/images/image.jpg)
-
-*A representative study site showing glacier morphology and melt features.*
+**HadCM3 for CMIP7** – contribution to the preparation of HadCM3 for CMIP7 by implementing the dynamic land-use scheme and running historical and future climate scenario simulations.
