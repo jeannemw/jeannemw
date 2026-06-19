@@ -28,29 +28,23 @@ author:
       url: "github.com/jeannemw"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/in/janesmith"
-    - label: "Bluesky"
-      icon: "fa-brands fa-fw fa-bluesky"
-      url: "https://janesmith.bsky.social"
+      url: "linkedin.com/in/jeannemillotweil"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.co.uk/citations?user=XXXXXXXXXXX"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+      url: "https://orcid.org/0009-0003-8534-2666"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jane.smith@example.com"
-    - label: "Bluesky"
-      icon: "fa-brands fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/janesmith.bsky.social"
+      url: "mailto:jeannemillot@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/janesmith"
+      url: "https://github.com/jeannemw"
   since: "2026"
 
 # Build settings
